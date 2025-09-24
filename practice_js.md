@@ -55,8 +55,5 @@ for (let key in person) {
 }
 delete person[topName]
 
-console.log(person);
-// Top Student: Ayesha Marks: 95
-
-// console.log(maxperson) 
+console.log(person); 
 ```
