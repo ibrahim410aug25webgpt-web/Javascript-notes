@@ -67,7 +67,7 @@ for(let key in inventory){
   }
 }
 ```
-###Ek object scores = {ali: 50, hassan: 85, hussain: 95} banao. If else ka use karke grades do:
+### Ek object scores = {ali: 50, hassan: 85, hussain: 95} banao. If else ka use karke grades do:
 90+ = A
 70–89 = B
 50–69 = C
